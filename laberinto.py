@@ -18,8 +18,6 @@ def recorrido():
         if d <= a and laberinto[a+1][b] != 'X':
             movimientos.append("Abajo")
             a += 1
-            d = a - 1 
-            d = c
         elif c <= b < 4 and laberinto[a][b+1] != 'X':
             movimientos.append("Derecha")
             b += 1
@@ -28,11 +26,10 @@ def recorrido():
         elif b < c and laberinto[a][b-1] != 'X':
             movimientos.append("Izquierda")
             b -= 1
-            c = b+1
-            d = b
         else:
             movimientos.append("Arriba")
             a -= 1
+            
             
     return movimientos
 

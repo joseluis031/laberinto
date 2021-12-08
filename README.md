@@ -3,6 +3,7 @@ Dirección de GitHub para este repositorio: [GitHub](https://github.com/joseluis
 Hemos terminado el juego del Laberinto, sensaciones regulares, entiendo "casi todo" mi código pero hay cosas que yo solo no habría sacado.
 
 Mi diagrama de flujo es el siguiente:
+![figma laberinto](https://user-images.githubusercontent.com/91721888/145291199-01807200-e5fa-4c45-844e-b387a9a24e26.png)
 
 
 El código del juego es el siguiente:
